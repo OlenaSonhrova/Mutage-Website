@@ -79,7 +79,7 @@ body{
 	color: var(--color-text-white);
 	font-family: var(--font-Lato);
 	font-weight: var(--font-weight-regular);
-	background-image: url('/image/fon2.svg');
+	background-image: url('./image/fon2.svg');
    background-repeat: no-repeat;
    background-size: cover; 
 	background-size: 100% 40%;
