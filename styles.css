@@ -266,7 +266,7 @@ color: var(--color-blue);
 
 .slogan {
 	background-color: var(--color-white);
-	background-image: url('/image/slogan_fon.svg');
+	background-image: url('./image/slogan_fon.svg');
 }
 .slogan__container {
 	padding: 100px 0px;
